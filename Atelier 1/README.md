@@ -1,7 +1,5 @@
 # Challenge 1 - Social proof section
 
-![Design preview](./design/desktop-preview.jpg)
-
 ## Bienvenue! 👋
 
 Pour pouvoir réussir ce challenge, il faut tout d'abord se documenter en HTML et CSS.
