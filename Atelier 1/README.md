@@ -1,6 +1,6 @@
 # Challenge 1 - Social proof section
 
-(./design/desktop-preview.jpg)
+![Design preview](./design/desktop-preview.jpg)
 
 ## Bienvenue! 👋
 
